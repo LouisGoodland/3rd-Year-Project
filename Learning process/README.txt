@@ -1,0 +1,1 @@
+This is just a collection of files that I made during the process to help make with choice making

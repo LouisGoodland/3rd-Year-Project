@@ -1,0 +1,2 @@
+model_checkpoint_path: "LearningModel48.h5f"
+all_model_checkpoint_paths: "LearningModel48.h5f"
